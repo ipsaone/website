@@ -63,7 +63,15 @@ License: https://themeforest.net/licenses/standard
 }
 
 .ipsa-bg-04 {
-    background-image: url('../images/bg-04-s.jpg');
+    background-image: url('../images/bg-04-d.jpeg');
+}
+
+.ipsa-bg-04-3 {
+	background-image: url("../images/ipsa-bg-04-3-d.jpg");
+}
+
+.ipsa-bg-04-6 {
+	background-image: url("../images/bg-04-6-d.jpg");
 }
 
 .ipsa-bg-05 {
