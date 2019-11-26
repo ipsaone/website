@@ -58,6 +58,10 @@ License: https://themeforest.net/licenses/standard
 	background-image: url('../images/bg-02-2-d.jpg');
 }
 
+.ipsa-bg-one {
+	background-image: url('../images/one.jpg');
+}
+
 .ipsa-bg-03 {
 	background-image: url('../images/bg-03-d.jpg');
 }
