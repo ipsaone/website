@@ -58,6 +58,10 @@ License: https://themeforest.net/licenses/standard
 	background-image: url('../images/bg-02-2-d.jpg');
 }
 
+.ipsa-bg-02-1 {
+	background-image: url('../images/bg-02-2-1.jpg');
+}
+
 .ipsa-bg-one {
 	background-image: url('../images/one.jpg');
 }
@@ -91,6 +95,10 @@ License: https://themeforest.net/licenses/standard
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+p {
+ font-size: 16px;
 }
 
 /* Background size */
